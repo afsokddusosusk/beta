@@ -1,0 +1,45 @@
+*.rbc
+.config
+InstalledFiles
+pkg
+test/tmp
+test/version_tmp
+tmp
+_Store
+*~
+*#
+.#*
+\#*#
+*.un~
+*.tmp
+*.bk
+*.bkup
+
+# editor files
+.idea
+.*.sw[a-z]
+
+# ruby/bundler/rspec files
+.ruby-version*.rbc
+.config
+InstalledFiles
+pkg
+test/tmp
+test/version_tmp
+tmp
+_Store
+*~
+*#
+.#*
+\#*#
+*.un~
+*.tmp
+*.bk
+*.bkup
+
+# editor files
+.idea
+.*.sw[a-z]
+
+# ruby/bundler/rspec files
+.ruby-version
